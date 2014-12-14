@@ -1,1 +1,1 @@
-Aplikasi yang ditujukan untuk mendata kinerja seorang pegawai dalam sebuah aplikasi dengan memanfaatkan sistem informasi Employee Record Keeping
+Aplikasi yang ditujukan untuk mendata kinerja seorang pegawai dalam sebuah aplikasi dengan memanfaatkan sistem informasi Work Effort
